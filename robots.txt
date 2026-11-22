@@ -1,0 +1,3 @@
+# Design concept — not for indexing. See <meta name="robots"> in index.html.
+User-agent: *
+Disallow: /
